@@ -1,7 +1,6 @@
-- Olá, meu nome é Nailson Chagas
-- Estudo Engenharia de Computação na UTFPR - PB
-- Trabalho atualmente na Youx Group
-- Atualmente interessado em temas relacionados a aprendizado de maquina e desenvolvimento web.
+Junior Fullstack Developer and Computer Engineering student, currently studying topics related to machine learning, signal processing, and web development.
+
+Desenvolvedor Junior Fullstack e estudante de Engenharia da Computação, atualmente estudando temas relacionados a aprendizado de máquina, processamento de sinais e desenvolvimento web.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailsonChagas&langs_count=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
