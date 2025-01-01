@@ -6,6 +6,10 @@
 - Processamento de Sinais 📊  
 - Desenvolvimento Embarcado ⚙️  
 
+💡 **Iniciação Científica:**  
+Atualmente realizando uma Iniciação Científica na área de desenvolvimento de ferramentas médicas, com foco em aprendizado de máquina e processamento de sinais.  
+No projeto, estou desenvolvendo um circuito de **eletroencefalograma (EEG)** para uso em pesquisas em **interfaces cérebro-computador (BCI)**, integrando tecnologias para captação, análise e aplicação de sinais cerebrais.  
+
 ---
 
 ### 📊 Estatísticas do GitHub  
