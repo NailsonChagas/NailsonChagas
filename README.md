@@ -10,7 +10,6 @@
 - Aprendizado de Máquina 🤖
 - Processamento de Sinais 📊
 
----
 
 ## 🚀 Tecnologias
 
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -39,13 +37,5 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NailsonChagas&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-💡 Interesse em firmware, hardware, processamento de sinais e IA aplicada.
 
 </div>
