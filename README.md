@@ -2,12 +2,9 @@
 
 🎓 **Estudante de Engenharia da Computação**  
 📚 Atualmente explorando os seguintes temas:  
+- Desenvolvimento Embarcado ⚙️  
 - Aprendizado de Máquina 🤖  
 - Processamento de Sinais 📊  
-- Desenvolvimento Embarcado ⚙️  
-
-💡 **Iniciação Científica:**  
-Atualmente realizando uma Iniciação Científica na área de desenvolvimento de ferramentas médicas, com foco em aprendizado de máquina e processamento de sinais.  Em meu projeto atual, estou desenvolvendo um circuito de **eletroencefalograma (EEG)** para uso em pesquisas em **interfaces cérebro-computador (BCI)**, integrando tecnologias para captação, análise e aplicação de sinais cerebrais.  
 
 ---
 
