@@ -3,7 +3,7 @@
 # 👨‍💻 Nailson Chagas
 </div>
 
-##🎓 **Estudante de Engenharia da Computação**  
+## 🎓 **Estudante de Engenharia da Computação**  
 
 📚 Atualmente explorando os seguintes temas:
 - Desenvolvimento Embarcado ⚙️
