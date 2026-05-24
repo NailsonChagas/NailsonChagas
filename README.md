@@ -1,10 +1,10 @@
 <div align="center">
-# 👨‍💻 Nailson Chagas - Estudante de Engenharia da Computação 
-** 📚 Atualmente explorando os seguintes temas:**
+# Nailson Chagas - Estudante de Engenharia da Computação 
+</div>
+**📚 Atualmente explorando os seguintes temas:**
 - Desenvolvimento Embarcado ⚙️
 - Aprendizado de Máquina 🤖
 - Processamento de Sinais 📊
-</div>
 
 ## 🚀 Tecnologias
 <div align="center">
