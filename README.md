@@ -1,10 +1,14 @@
 <div align="center">
 
 # 👨‍💻 Nailson Chagas
-
-### Engenharia da Computação • Sistemas Embarcados • Machine Learning
-
 </div>
+
+##🎓 **Estudante de Engenharia da Computação**  
+
+📚 Atualmente explorando os seguintes temas:
+- Desenvolvimento Embarcado ⚙️
+- Aprendizado de Máquina 🤖
+- Processamento de Sinais 📊
 
 ---
 
