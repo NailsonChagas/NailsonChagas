@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nailson Chagas - Estudante de Engenharia de Computação
+# Nailson Chagas - Formando de Engenharia de Computação
 
 </div>
 
